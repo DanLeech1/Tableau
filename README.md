@@ -1,4 +1,7 @@
 # Tableau Project
 University Project
 
-The World Development Report 2013 on Jobs statistical tables provide national level data on a broad range of issues related to labor force participation, employment structure, wage inequality, skills and productivity, youth idleness and unemployment, social cohesion, migration, and core labor conventions.
+This university project tasked me with using Tableau to visualize data from The World Development Report 2013 containing statistics such as labor force participation, wage inequality, employment structure, youth unemployment, migration, and social cohesion. By transforming the raw data into interactive visualisations, this project uncovers trends and insights related to global employment patterns and workforce dynamics.
+
+This project illustrates my proficiency in using Tableau to create clear, insightful visualizations from complex datasets.
+
